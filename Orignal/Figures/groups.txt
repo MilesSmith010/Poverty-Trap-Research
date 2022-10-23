@@ -1,0 +1,63 @@
+group 1
+k_l = .7;       %lower bound
+k_u = 1;      %upper bound
+
+% Exogenous variables
+p = .3;    %Probability of catching reneging agent
+R = .99;      %Interest Rate on gains from borrowed captial
+
+r = .6;
+s=.9
+
+
+
+group 2
+% Bounds on capital
+k_l = .7;       %lower bound
+k_u = 1;      %upper bound
+
+% Exogenous variables
+p = .3;    %Probability of catching reneging agent
+R = 1.5;      %Interest Rate on gains from borrowed captial
+
+r = .91;    %Interest rate agent must repay on borrowed captial
+s=.9
+
+
+group 3
+k_l = .7;       %lower bound
+k_u = 1;      %upper bound
+
+% Exogenous variables
+p = .3;    %Probability of catching reneging agent
+R = .8;      %Interest Rate on gains from borrowed captial
+
+r = .5;
+s=.9
+
+
+
+group 4
+% Bounds on capital
+k_l = .5;       %lower bound
+k_u = .6;      %upper bound
+
+% Exogenous variables
+p = .6;    %Probability of catching reneging agent
+R = 1;      %Interest Rate on gains from borrowed captial
+
+r = .73;    %Interest rate agent must repay on borrowed captial
+s=.9
+
+
+
+group 5
+k_l = 1;       %lower bound
+k_u = 1.6;      %upper bound
+
+% Exogenous variables
+p = .2;    %Probability of catching reneging agent
+R = .99;      %Interest Rate on gains from borrowed captial
+
+r = .65; 
+s=.9 

@@ -1,0 +1,14 @@
+Given 1 < r_1 < r_2 and some fixed w > w_c (aka wealthy agent).
+Assume there exists some w* such that V(w*, r_1) = V(w*, r_2).
+
+Then, k_l (R - r_1) + (w*)(r_1) = k_l (R - r_2) + (w*)(r_2)
+and, (w*)(r_1) - (w*)(r_2) = k_l(R - r_2) - k_l(R - r_1)
+where, (w*)(r_1) - (w*)(r_2) = k_l(r_1 - r_2) 
+and finally, w* = k_l
+
+If w* = k_l,
+then for all r, V(w = k_l, r) = (k_l)(R - r) + (k_l)(r) = k_l(R) + k_l(r) - k_l(r) 
+and:
+V(w = k_l, r) = k_l(R)
+
+Note: flawed proof. More of a simple write up of a concept.
