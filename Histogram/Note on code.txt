@@ -1,0 +1,23 @@
+need all function files b, b_original, kw, and the variables used in all files need to be restated in each... sorry
+
+
+
+Values for Figure (1):
+k_l = 1;       
+k_u = 1.5;     
+p = .2;    
+R = 2;      
+r = 1;    
+sigma = .39;          
+lambda = 2.25;            
+eta = .05;
+
+Values for Figure (2) - currently in Latex file:
+k_l = 1;       
+k_u = 1.6;      
+p = .2;    
+R = 2.8;      
+r = 1.1;     
+sigma = .27;          
+lambda = 2.25;            
+eta = .2;
